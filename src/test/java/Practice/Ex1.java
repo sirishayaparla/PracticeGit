@@ -10,6 +10,8 @@ public class Ex1 {
 		
 		System.out.println("test method excuted");
 		
+		System.out.println("test method changed");
+		
 		
 		
 		
