@@ -12,6 +12,8 @@ public class Ex1 {
 		
 		System.out.println("test method changed");
 		
+		System.out.println("hhhh");
+		
 		
 		
 		
